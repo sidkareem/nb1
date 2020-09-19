@@ -1,0 +1,61 @@
+#about{
+    background-image:url("../Images/about-us-background.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    /* padding-left: 5%; */
+}
+.abt-box{
+    margin-top: 15px;
+    margin-bottom: 20px;
+    box-sizing: border-box;
+    border-radius: 25px ;
+}
+
+.hexa-text{
+    background-color: #bac964;
+}
+
+.hexaimg{
+    right: 40%;
+    /* right: 20%; */
+    /* width: 300px; */
+}
+
+
+
+/*----------Index Page 3 / About Us Page----------*/
+.index-page3{
+    padding: 0;
+    display: inline;
+    margin: 0;
+    line-height: 2;
+  }
+
+  .mobile-about-us-img{
+    display: none;
+  }
+
+  .about-us-heading{
+      font-family: 'Montserrat', sans-serif;
+      font-size: 92;
+      font-weight: bolder;
+      color: #093D27;
+      text-align: left;
+
+  }
+
+  .mobile-about-us-para{
+    display: none;
+  }
+
+  .no-mobile-about-us-para{
+    padding-right: 1.875rem;
+  }
+
+  .hexa-img{
+    width: 21.875rem;
+    position: absolute;
+    top: 63.75rem;
+    right: 14%;
+  }
+  /*-----------------------------------------*/
